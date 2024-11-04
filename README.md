@@ -50,10 +50,10 @@ For more about this project, read the full article on Medium: ➡️ Delta Airli
 •	Explore deeper customer segmentation with demographic and transactional data.
 
 ## **📁 Repo Structure**
-•	data/: Contains sample data files (note: real datasets are confidential).
-•	notebooks/: Jupyter notebooks with step-by-step analysis.
-•	scripts/: Python scripts for data preprocessing, modeling, and visualization.
-•	README.md: Project documentation.
+- data/: Contains sample data files (note: real datasets are confidential).
+- notebooks/: Jupyter notebooks with step-by-step analysis.
+- scripts/: Python scripts for data preprocessing, modeling, and visualization.
+- README.md: Project documentation.
 
 ## **💻 Installation**
 1.	**Clone the repository:**
