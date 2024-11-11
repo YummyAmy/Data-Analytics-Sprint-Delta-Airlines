@@ -1,6 +1,5 @@
-
 # ✈️ Delta Airlines Analytics Project
-Welcome to another experience, thanks to **[Clicked](https://www.clicked.com/learning-experience-page/data-analytics-team-sprint-10-17-24?mode=module)**: Delta Airlines Analytics Project! 
+Welcome to another Sprint, thanks to **[Clicked](https://www.clicked.com/learning-experience-page/data-analytics-team-sprint-10-17-24?mode=module)**: Delta Airlines Analytics Project! 
 
 This project was all about giving Delta Airlines a 5-year business strategy that can help them address market dynamics and regulatory requirements and keep a competitive edge in the industry. It goes into customer behavior, operational efficiency, and revenue optimization for Delta Airlines, using various data science techniques to uncover actionable insights.
 
@@ -15,7 +14,7 @@ Delta Airlines faces increasing competition from low-cost carriers and high regu
 
 •	Provide recommendations to support a 5-year business strategy
 
-## **🧩 Hypotheses I explored:**
+## **🧩 Hypotheses explored:**
 
 **1.	Customer Segmentation for Retention:**
 
@@ -34,15 +33,15 @@ Delta Airlines faces increasing competition from low-cost carriers and high regu
 ## **📈 Analysis and Modeling**
 - Customer Segmentation: K-Means clustering segmented customers based on loyalty, engagement, and checked bags, helping Delta to target high-value groups.
 - Occupancy Prediction: Logistic regression and decision trees explored factors influencing occupancy rates.
-- Revenue Analysis: Time series and regression models were used to understand the relationship between ticket prices, ancillary services, and revenue.
+- Seasonal Analysis: Time series and regression models were used to extract the time of the year with most flights understand the relationship between ticket prices, and seat occupancy.
 
 ## **🔍 Key Visualizations**
 - Confusion Matrix: Showed predictive accuracy and class imbalance challenges in logistic regression models.
-- ROC Curve: Demonstrated the need for improved features to enhance model accuracy.
+- ROC Curve: Showed need for improved features to enhance model accuracy.
 - Customer Segmentation Plot: Visualized customer clusters, helping Delta tailor engagement strategies.
 
 ## **📄 Read the full details here**
-For more about this project, read the full article on Medium: ➡️ Delta Airlines Analytics Project
+Raed the full article here: **[➡️ Delta Airlines Analytics Project](https://ameikpe.medium.com/how-delta-airlines-is-turning-loyalty-into-revenue-the-data-driven-strategy-behind-full-flights-5f2799c84973)**
 
 ## **🚀 What more can be done:**
 •	Refine models with additional customer behavior data.
@@ -57,7 +56,7 @@ For more about this project, read the full article on Medium: ➡️ Delta Airli
 
 ## **💻 Installation**
 1.	**Clone the repository:**
-`git clone https://github.com/yourusername/delta-airlines-analytics.git`
+`git clone https://github.com/YummyAmy/delta-airlines-analytics.git`
 
 2.	Install the required libraries:
 `pip install -r requirements.txt`
